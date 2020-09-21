@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    overflow-x: hidden;
+
+}
+
+/*home{
+    height:100vh;
+    width: 100vw;
+    background:url("http://source.unsplash.com/MQTQBREtUxE");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
